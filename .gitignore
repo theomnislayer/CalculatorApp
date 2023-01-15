@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/CalculatorLib/obj
+/CalculatorLib/bin/Debug/net6.0
+/CalculatorUApp/.vs
+/CalculatorUApp/CalculatorUI/obj
+/CalculatorUApp/CalculatorUI/bin/Debug/net6.0-windows
